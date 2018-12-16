@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite name : Smoke" duration-ms="38720" started-at="2018-12-05T08:07:16Z" finished-at="2018-12-05T08:07:55Z">
+  <suite name="Suite name : Smoke" duration-ms="53578" started-at="2018-12-08T02:51:31Z" finished-at="2018-12-08T02:52:25Z">
     <groups>
     </groups>
-    <test name="Test Name : My TestNG practices" duration-ms="38720" started-at="2018-12-05T08:07:16Z" finished-at="2018-12-05T08:07:55Z">
+    <test name="Test Name : My TestNG practices" duration-ms="53578" started-at="2018-12-08T02:51:31Z" finished-at="2018-12-08T02:52:25Z">
       <class name="Tests.LoginTest01">
-        <test-method status="PASS" signature="initTestMethods()[pri:0, instance:Tests.LoginTest01@3abbfa04]" name="initTestMethods" is-config="true" duration-ms="205" started-at="2018-12-05T08:07:16Z" finished-at="2018-12-05T08:07:16Z">
+        <test-method status="PASS" signature="initTestMethods()[pri:0, instance:Tests.LoginTest01@13deb50e]" name="initTestMethods" is-config="true" duration-ms="1244" started-at="2018-12-08T02:51:30Z" finished-at="2018-12-08T02:51:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTestMethods -->
-        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Tests.LoginTest01@3abbfa04]" name="launchBrowser" is-config="true" duration-ms="14613" started-at="2018-12-05T08:07:16Z" finished-at="2018-12-05T08:07:31Z">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Tests.LoginTest01@13deb50e]" name="launchBrowser" is-config="true" duration-ms="29455" started-at="2018-12-08T02:51:31Z" finished-at="2018-12-08T02:52:01Z">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="AmazonLogin()[pri:0, instance:Tests.LoginTest01@3abbfa04]" name="AmazonLogin" duration-ms="23875" started-at="2018-12-05T08:07:31Z" finished-at="2018-12-05T08:07:55Z">
+        <test-method status="PASS" signature="AmazonLogin()[pri:0, instance:Tests.LoginTest01@13deb50e]" name="AmazonLogin" duration-ms="23527" started-at="2018-12-08T02:52:01Z" finished-at="2018-12-08T02:52:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AmazonLogin -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Tests.LoginTest01@3abbfa04]" name="cleanUp" is-config="true" duration-ms="202" started-at="2018-12-05T08:07:55Z" finished-at="2018-12-05T08:07:55Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Tests.LoginTest01@13deb50e]" name="cleanUp" is-config="true" duration-ms="487" started-at="2018-12-08T02:52:24Z" finished-at="2018-12-08T02:52:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method status="PASS" signature="cleanTestMethods()[pri:0, instance:Tests.LoginTest01@3abbfa04]" name="cleanTestMethods" is-config="true" duration-ms="437" started-at="2018-12-05T08:07:55Z" finished-at="2018-12-05T08:07:55Z">
+        <test-method status="PASS" signature="cleanTestMethods()[pri:0, instance:Tests.LoginTest01@13deb50e]" name="cleanTestMethods" is-config="true" duration-ms="1297" started-at="2018-12-08T02:52:26Z" finished-at="2018-12-08T02:52:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanTestMethods -->
